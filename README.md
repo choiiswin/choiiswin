@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiiswin&show_icons=true&theme=dark)
+출처: https://eunhee-programming.tistory.com/244?category=1233835 [코드짜는 문과녀:티스토리]
