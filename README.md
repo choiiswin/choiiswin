@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiiswint&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choiiswin&show_icons=true&theme=tokyonight)
   
   
  #
